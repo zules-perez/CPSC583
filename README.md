@@ -1,2 +1,2 @@
 # CPSC583
-Expert Systems Design Theory
+## Expert Systems Design Theory
