@@ -5,7 +5,7 @@
 
 ![image](https://user-images.githubusercontent.com/22207108/197358636-de539746-cc9e-45fe-a78b-ce85c7967217.png)
 
-Data was collected from Billzard API specifically the World of Warcraft Pet API endpoints.
+Data was collected from Blizzard API specifically the World of Warcraft Pet API endpoints.
 
 Created a program in Python in order to pull the data from the API.
 Used MongoDB to dump all data collected from the WoW API.
